@@ -18,4 +18,4 @@ This Path teaches you how to think algorithmically and solve problems efficientl
 
 ### Start Here
 
-First start by making an Edx account through edx.org then sign into cs50.io through edx
+First start by making an Edx account through [edx.org] then sign into [cs50.io] through edx
