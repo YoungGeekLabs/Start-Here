@@ -1,7 +1,4 @@
-# Start
-
-Path Curriculum
-
+# Path 
 ### Curriculum
 
 This Path teaches you how to think algorithmically and solve problems efficiently.
@@ -18,3 +15,5 @@ This Path teaches you how to think algorithmically and solve problems efficientl
 | Python |
 | SQL |
 | JavaScript |
+
+### Start Here
