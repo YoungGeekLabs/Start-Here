@@ -2,9 +2,22 @@
 
 Path Curriculum
 
-### Markdown
+### Curriculum
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This Path teaches you how to think algorithmically and solve problems efficiently.
+
+| Name |
+|-------|
+| Scratch |
+| C |
+| C, continued |
+| Algorithms |
+| Memory |
+| Data Structures |
+| HTTP |
+| Python |
+| SQL |
+| JavaScript |
 
 ```markdown
 Syntax highlighted code block
